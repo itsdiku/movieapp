@@ -28,7 +28,9 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Cineplex Arena</h1>
+      <a href="/movieapp/">
+        <h1>Cineplex Arena</h1>
+      </a>
 
       <div className="search">
         <input

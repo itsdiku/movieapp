@@ -36,6 +36,12 @@ h1 {
   width: fit-content;
 }
 
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
 .search {
   width: 71%;
   margin: 4rem 0 2rem;
