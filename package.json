@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://itsdiku.github.io/jokes_reactapp/",
+  "homepage": "https://itsdiku.github.io/movieapp/",
   "dependencies": {
     "gh-pages": "^5.0.0",
     "react": "^18.2.0",
